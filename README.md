@@ -158,7 +158,3 @@ SpinningCow is intentionally a single Java source file. Its main components are:
 - Automatic sizing is performed at startup. Restart the program after resizing the terminal to use the new dimensions.
 - Colour and cursor control depend on ANSI terminal support. Redirected output and some IDE consoles may not behave like a real terminal.
 - The model and lighting are hand-tuned approximations, not a general-purpose 3D engine.
-
-## 📄 License
-
-No license has been declared in this repository yet. Add a `LICENSE` file before treating the project as licensed for reuse or redistribution.
